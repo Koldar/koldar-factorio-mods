@@ -1,0 +1,11 @@
+{
+    "name": "Kesplin",
+    "version": "1.0.0",
+    "title": "Kesplin",
+    "author": "Massimo Bono",
+    "factorio_version": "1.1",
+    "dependencies": [
+        "base >= 1.1"
+    ],
+    "description": "A small story mod for factorio. Multiplayer supported."
+}
